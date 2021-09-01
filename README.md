@@ -1,0 +1,2 @@
+# Dedicated
+for develop game
